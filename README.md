@@ -100,7 +100,7 @@ Launch your Spring Boot application using Docker.
 
 ## 🧪 4. JMeter Test
 ### Test Scenario
-> One company on Ancestor Love (a service matching platform for ancestral grave cleaning, lawn mowing, and garden maintenance) is running a special promotion for the Chuseok holiday. The promotion offers an 80% discount for the first 5 customers. As a result, approximately 1,000 users are expected to visit the promotional post, causing a traffic surge.
+> One company on Ancestor Love (a service matching platform for ancestral grave cleaning, lawn mowing, and garden maintenance) is running a special promotion for the Chuseok holiday. The promotion offers an 80% discount for the first 5 customers. As a result, approximately 1,0000 users are expected to visit the promotional post, causing a traffic surge.
 
 
 ### 4.1 Install JMeter
