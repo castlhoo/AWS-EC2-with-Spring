@@ -1,5 +1,6 @@
 
 # 🚀 AWS EC2 with Spring Boot, Docker & JMeter Stress Test
+![image](https://github.com/user-attachments/assets/6ec295f9-d9e3-489f-b337-9d7e59317d40)
 
 The combination of AWS EC2, Spring Boot, Docker, and JMeter Stress Testing is essential for ensuring that applications can handle real-world demands in cloud environments. AWS EC2 provides scalable, on-demand cloud infrastructure, allowing applications to handle spikes in traffic without downtime. Spring Boot is used to build microservices or standalone applications, making it ideal for creating modular services that can be independently scaled. Docker ensures consistent deployment across different environments, reducing the risk of environment-specific issues during production deployment. JMeter is employed to simulate high traffic loads and stress-test these applications, helping to identify bottlenecks, optimize performance, and ensure that the system can handle thousands of concurrent users, which is critical in real-world scenarios like high-traffic promotions or sales events. This combination allows organizations to deploy, monitor, and scale applications efficiently, ensuring performance and reliability under varying traffic loads.
 
